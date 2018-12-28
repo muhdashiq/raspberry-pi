@@ -1,0 +1,16 @@
+{
+  "name": "raspberry-pi",
+  "version": "1.0.0",
+  "description": "raspberry pi codes",
+  "main": "app.js",
+  "dependencies": {
+    "onoff": "^3.2.2",
+    "socket.io": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammed Ashiq",
+  "license": "ISC"
+}
